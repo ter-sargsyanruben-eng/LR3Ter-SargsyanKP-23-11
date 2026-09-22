@@ -5,6 +5,8 @@
     "cache",
     "system_monitor",
     "debug_service",
-    "legacy_worker"
+    "legacy_worker",
+    "temp_worker",
+    "old_api"
   ]
 }
