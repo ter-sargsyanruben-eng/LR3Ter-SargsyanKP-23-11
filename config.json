@@ -1,0 +1,14 @@
+{
+  "allowed_containers": [
+    "web_service",
+    "database",
+    "cache",
+    "system_monitor"
+  ],
+  "outdated_containers": [
+    "legacy_worker",
+    "old_api"
+  ],
+  "check_interval_seconds": 60,
+  "log_file": "logs/system_redundancy.log"
+}

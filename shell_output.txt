@@ -1,0 +1,19 @@
+total 64
+-rw-r--r-- 1 root oai_shared 2003 Sep 18 15:24 README.md
+-rwxr-xr-x 1 root oai_shared   36 Sep 18 15:24 Ter-Sargsyan2.sh
+drwxr-sr-x 2 root oai_shared 4096 Sep 18 15:25 __pycache__
+-rw-r--r-- 1 root oai_shared 2091 Sep 18 15:24 calculator.py
+-rw-r--r-- 1 root oai_shared  246 Sep 18 15:24 config.json
+-rw-r--r-- 1 root oai_shared  935 Sep 18 15:24 logger_utils.py
+drwxr-sr-x 2 root oai_shared 4096 Sep 18 15:25 logs
+-rw-r--r-- 1 root oai_shared 1100 Sep 18 15:24 main.py
+drwxr-sr-x 2 root oai_shared 4096 Sep 18 15:25 output
+-rw-r--r-- 1 root oai_shared   18 Sep 18 15:24 requirements.txt
+-rw-r--r-- 1 root oai_shared 1709 Sep 18 15:25 run_output.txt
+-rw-r--r-- 1 root oai_shared  179 Sep 18 15:25 running_containers.json
+-rw-r--r-- 1 root oai_shared  145 Sep 18 15:24 running_containers_before_changes2.json
+-rw-r--r-- 1 root oai_shared  256 Sep 18 15:24 secrets_check.py
+-rw-r--r-- 1 root oai_shared    0 Sep 18 15:25 shell_output.txt
+-rw-r--r-- 1 root oai_shared  290 Sep 18 15:24 table_view.py
+-rw-r--r-- 1 root oai_shared    0 Sep 18 15:25 testfile.sh
+-rw-r--r-- 1 root oai_shared 1595 Sep 18 15:24 visualization.py

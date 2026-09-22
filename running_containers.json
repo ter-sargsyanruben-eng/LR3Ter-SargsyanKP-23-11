@@ -1,0 +1,10 @@
+{
+  "running_containers": [
+    "web_service",
+    "database",
+    "cache",
+    "system_monitor",
+    "debug_service",
+    "legacy_worker"
+  ]
+}
